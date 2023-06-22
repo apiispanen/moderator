@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+ffmpeg.exe
+ffprobe.exe
+ffplay.exe
+
+
 # Distribution / packaging
 .Python
 build/
